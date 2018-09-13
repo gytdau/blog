@@ -1,0 +1,17 @@
+--- 
+layout: default
+---
+<div class="wrapper">
+  <div class="home">
+    <h1 class="blog-title">Gytis's Blog</h1>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+        <a class="post-link" href="{{ post.url | relative_url }}" style="background: {{post.bg}};">
+          {{ post.title | escape }}
+          <div class="post-meta">{{ post.summary }}</div>
+        </a>
+      {%- endfor -%}
+    </ul>
+
+  </div>
+</div>
