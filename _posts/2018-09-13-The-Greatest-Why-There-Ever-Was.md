@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Greatest Why There Ever Was"
-summary: "On art for the sake of art."
+summary: "On work for the sake of work."
 bg: "url('/assets/DT1044.jpg')"
 ---
 
