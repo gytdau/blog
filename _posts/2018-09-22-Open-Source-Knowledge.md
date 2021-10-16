@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Open Source Knowledge"
-summary: "What if we could bootstrap knowledge like code?"
-bg: "url('/assets/img2.jpg')"
 ---
+
+_Note from 2021-10-17: Looking back on this from the future, I feel less strongly about the ability to capture broad value systems in writing, much less argue for their adoption to others. However, the experiment was interesting and I am glad I did it._
+
+---
+
 Technology today is great at answering specific, specialized questions. Experts on, say, cooking, write articles, make videos, or write books, all of which is well indexed, and you can find it through a Google search.
 
 But forming a question is half the battle. Say you want to learn to cook; you can get help instantly by looking it up. But what prompts you to learn to cook? If you learned to cook for whatever reason, and it ended up being pretty helpful, what says that there isn't a whole gold mine of questions that you never thought of asking?
