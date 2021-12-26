@@ -28,3 +28,5 @@ It's true that being obsessed with morality seems to be something of a fashion o
 For one, moral virtue does have the property of giving you very clear solutions to a large class of problems. If you can't drink alcohol, you can't drink, not even a little bit. This circumvents many problems of careful moderation. That's a good thing: in a world of reinforcing feedback loops, moderation should be treated with a little suspicion.
 
 Secondly, what many people call "luck" can generally be traced back to the compounding effect of a long series of correctly made decisions. Each decision seems small and insignificant at first, but the resulting consequences are large. Moral virtue has the advantage of taking every decision seriously and so could be an unusually effective model to apply when thinking about a world where actions multiply themselves and compound.
+
+_Thanks to Sam Enright for reviewing a draft of this._
