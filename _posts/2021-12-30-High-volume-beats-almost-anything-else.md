@@ -20,8 +20,6 @@ So if "quantity vs quality" is wrong, what's next?
 
 An alternative is the higher fidelity "babble/prune" model. It describes, very roughly, two stages. First, babbling means to generate a lot of possibilities at random, only weakly ensuring that they're relevant. After comes prune, which is to rapidly destroy bad possibilities, ones which don't work, don't sound good, and don't rise to the level of quality.
 
-==This model also has some implied false trade-offs, at least on first reading. Trying to adjust the amount of babbling, or the amount of pruning, as if they're levers, is somewhat mistaken. Babble/prune reveals a system of work output, which leads to==
-
 How much to prune depends on what the punishment for getting it wrong is. This was certainly a relevant concern for writers, like Stephen King, whose reputation would take a nose dive if he released a half-baked novel. Importantly, it's very hard to edit a book that's already been printed. But I, on the other hand, can probably release half-baked posts without consequence for a long time. I already have, though you don't see them because I've just deleted the ones that I grew to recognise as noticeably bad.
 
 Blogs in particular are this weird art form that appear to be rewarded strongly for great content and punished weakly for bad content. This punishment is really quite weak, since you don't generally hear of bad blogs. Going for both a high volume and a high variance strategy makes sense in this light, because you'll eventually find some good ideas that you'll be recognised for, even if all the other work was only merely okay.
