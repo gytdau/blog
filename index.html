@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="archive">
+<div class="archive col-md-8 offset-md-2">
   {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
   if currDate != date %}
   <h1 class="archive-year">{{ currDate }}</h1>
