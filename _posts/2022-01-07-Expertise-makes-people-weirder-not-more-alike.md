@@ -13,7 +13,7 @@ Here's one example on inspiration. Moravia needs "genuine" inspiration, saying t
 
 > ALBERTO MORAVIA: Not in anything I’ve published. Whenever characters get out of control, it’s a sign that the work has not arisen from genuine inspiration. One doesn’t go on then.
 
-Yet earlier on, Faulkner totally dismisses it, not even knowing what it is:
+Inspiration sounds big! Yet earlier on, Faulkner totally dismisses it, not even knowing what it is:
 
 > INTERVIEWER: You mentioned experience, observation, and imagination as being important for the writer. Would you include inspiration?
 
@@ -44,8 +44,8 @@ Elsewhere, Alexey Guzey does a good job at mentioning [ways advice is fraught](h
 
 Though Guzey just about damns advice, I would venture to say that even he seems to stop short.
 
-Useful and particular knowledge is hard-to-come-by and sometimes has more value the less know of it, and in fields where this is true, great advice is closely guarded. That means that the popular advice that everybody shares can sometimes be misleading. This is pessimistic, but not entirely untrue. If the common advice was so good, why doesn't everybody eventually become extraordinary?
+Knowledge that is specific and hard-to-come-by tends to become more valuable the less people know about it, and in fields where people compete, great advice is closely guarded. That means that the popular advice that everybody shares can sometimes be misleading. Maybe this is pessimistic, but if so, only a smidgen. Consider this: if the common advice was so good, why doesn't everybody eventually become extraordinary? Could it be the advice that stops them?
 
-Here's another problem: even in fields that aren't a zero-sum competition, there could be a social stigma against weird advice. If you have a particularly weird trick in your line of work, the weirdness may harm you and give you odd glances if you mention that. And as a lot of highly valuable knowledge is very weird, this bias against weird-sounding yet correct advice probably does much harm. Advice tends to be not only generic but conforming to some archetype of what advice should sound like, in this way, the most common advice tends to grow to become something like platitudes.
+Here's another problem: even in fields that aren't a zero-sum competition, there could be a social stigma against weird advice. If you have a particularly weird trick in your line of work, it's hard to share without people giving you strange looks. And as a lot of highly valuable knowledge is very weird, this bias against weird-sounding yet correct advice probably does much to harm the entire project of seeking advice. Common, impersonal advice has to conform to some archetype of what advice should sound like. In this way, it all tends to grow to empty platitudes that are easy to share and harm nobody's sensibilities.
 
 I'm not pessimistic about all advice, however. There remains the ability for a small group of people, sometimes just two, to develop context through repeated interactions. When there is context, there can be differentiated and uniquely helpful advice. But perhaps that type of information does not really deserve to be called advice at all: instead, the most valuable advice is more accurately merely the result of a process of communal problem solving.
