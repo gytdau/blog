@@ -5,16 +5,18 @@ title:  "Expertise makes people weirder, not more alike"
 
 Taking advice is a fraught activity. As you become more skilled in a field, the advice you need to advance becomes more specific to you, and as such harder to find. At some point, depending on the field, it somehow becomes unwise to take general advice at all, since taking advice will at best do nothing, or at worst, be a reversion to the mean.
 
-One example is _Writers at Work_, where interviewers ask a set of esteemed writers about their particular experience and solicit advice about writing. The surface level reading is to take away the advice, especially if you're a writer. One other reading, though, is to notice that the advice is very different from author to author, and sometimes even contradictory.
+A great book is _Writers at Work_, where interviewers ask a set of esteemed writers about their particular experience and solicit advice about writing. The surface level reading is to take away the advice, especially if you're a writer. One other reading, though, is to notice that the advice is very different from author to author, and sometimes even contradictory.
 
 Here's one example on inspiration. Moravia needs "genuine" inspiration, saying that "one doesn't go on" without it:
 
 > INTERVIEWERS: Have there been times when characters have got out of hand?
+
 > ALBERTO MORAVIA: Not in anything I’ve published. Whenever characters get out of control, it’s a sign that the work has not arisen from genuine inspiration. One doesn’t go on then.
 
 Yet earlier on, Faulkner totally dismisses it, not even knowing what it is:
 
 > INTERVIEWER: You mentioned experience, observation, and imagination as being important for the writer. Would you include inspiration?
+
 > WILLIAM FAULKNER: I don’t know anything about inspiration, because I don’t know what inspiration is—I’ve heard about it, but I never saw it.
 
 
@@ -24,13 +26,13 @@ It's easy to look at respected figures and acknowledge the variance in how they 
 
 One way you could phrase it is to say that this all begins as a journey to learn advice, and then you eventually learn enough to start unlearning advice. You realise the flawed nature of all general models, and become able to let go of all the memorized rules about inspiration or work ethic.
 
-Here's one more example. Everybody knows you ought to be passionate about your job, and love it in your bones. Now listen to Georges Simenon:
+Everybody knows you ought to be passionate about your job and love it in your bones, to the point that this has become the standard course of advice for graduation ceremonies. Now listen to Georges Simenon:
 
 > SIMENON: Writing is considered a profession, and I don’t think it is a profession. I think that everyone who does not need to be a writer, who thinks he can do something else, ought to do something else. Writing is not a profession but a vocation of unhappiness. I don’t think an artist can ever be happy.
 
-It's easy to see that advice is so context dependent that even entirely reversing advice sometimes reveals a genuine, correct new piece of advice. 
+Advice is so context dependent that even entirely reversing advice sometimes reveals a genuine, correct new piece of advice. This should give you pause for thought.  This is what I believe Peter Thiel means when he references the idea of the [zen-like opposites](https://www.scotthyoung.com/blog/2015/04/07/paradoxical-virtues/) that occur in particularly good founders, who have two seemingly opposing traits that are revealed at different times.
 
-What should scare you most is not the prospect of taking advice that ends up obviously failing. It's advice that ends up working. Because if the advice leads you to settle on a local maximum – that is someone else's _global_ maximum – you silently miss the true north of finding the particular way of working that plays to your uniqueness. 
+What should scare you most is not the prospect of taking advice that ends up obviously failing, or advice that is easily reversed. It's advice that ends up working. Because if the advice leads you to settle on a local maximum – that is someone else's _global_ maximum – you silently miss the true north of finding the particular way of working that plays to your uniqueness. 
 
 This is the risk with things like merely satisfactory jobs. The gains accrue to the people who are the best fit for the job, and so merely satisfactory jobs bite you twice: the first, by taking away the incredible value of having a well-fitting career, and a second time, by preventing you from building up enough dissatisfaction to leave. 
 
