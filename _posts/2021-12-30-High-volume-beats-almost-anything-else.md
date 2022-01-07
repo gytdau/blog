@@ -36,4 +36,4 @@ Note that the babel/prune model is still just a model, and every model is flawed
 
 Babbling can also sometimes improve without even having any visible pruning take place. For instance, programmers sometimes become good by just doing a lot of programming. Kids also seem to be able to learn how to do stuff without anyone giving them much critique. 
 
-Babble/prune is higher fidelity than quantity vs. quality, but I don't yet know how to account for the 99th percentile of performance. I would guess that this is where explanations of outcomes start to come tricky, or luck becomes dominant. But 95th percentile is still a pretty good position to be in.
+Babble/prune is higher fidelity than quantity vs. quality, but I don't yet know how to account for the 99th percentile of performance. I would guess that this is where explanations of outcomes start to come tricky, or luck becomes dominant. But if you want to know how to get to the 95th percentile, it's simple: optimize for quantity.
