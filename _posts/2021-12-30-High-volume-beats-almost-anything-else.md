@@ -28,7 +28,7 @@ This is probably what's hard about being well known or well respected. The punis
 
 > Most famous people, sooner or later, tend to think they can only work on important problems — hence they fail to plant the little acorns which grow into the mighty oak trees. I have seen it many times, from Brattain of transistor fame and a Nobel Prize to Shannon and his information theory. Not that you should merely work on random things, but on small things which seem to you to have the possibility of future growth.
 
-– Richard Feynman, You and Your Research
+– Richard Hamming, You and Your Research
 
 This is the sense in which being unknown ends up being an asset. There may indeed be danger in being well known, at least if you aren't impervious to the pressure to prune more strongly.
 
