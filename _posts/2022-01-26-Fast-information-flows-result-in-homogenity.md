@@ -25,13 +25,11 @@ Most notably to us, the Talmud, a source of Jewish law, has a perplexing rule ab
 
 A Sanhedrin judge must show himself to be an able thinker before being allowed onto the bench of the court, being competent enough to argue for even an impossible claim, such as one that contradicts the explicit text of the Bible. The good judge is therefore one that can argue for both sides, even when the evidence for one of the sides seems overwhelming and totally air-tight. A unanimous verdict, then, is a haunting sign that the judges have failed at this virtue, and have lost their ability to seek truth.
 
-Unanimity is the line where the "wisdom of crowds becomes the madness of crowds". The change from high confidence to total confidence in an opinion is not a change of degree, but of kind. Opinions in the majority are likely to be true, while a total consensus hints that the entire system of truth seeking is totally broken.
+The change from high confidence to total confidence in an opinion is not a change of degree, but of kind. Opinions in the majority are likely to be true, while a total consensus hints that the entire system of truth seeking is totally broken.
 
-The Talmud rule could be read as a warning about our social climate. The fervent and dogmatic consensus of our society indicates that we have lost the ability to make sound judgements. Our system, according to the Talmud, is broken.
+The Talmud rule could be read as a warning about our social climate. The fervent and dogmatic consensus of our society indicates that we have lost the ability to make sound judgements. To become a judge on the Sanhedrin entailed passing a high bar, proving your capability to resist groupthink. 
 
-To become a judge on the Sanhedrin entailed passing a high bar, proving your capability to resist groupthink. But this standard is unrealistically high to apply to the common citizen. 
-
-It’s useless to exhort people to keep an open mind. We know enough about human psychology to expect that, when people form small groups, the groups will naturally tend to find consensus among its members. Healthy systems seek truth by instead allowing each group of fervent consensus to balance each other, thus allowing the entire society to become an approximation of the truth.
+We shouldn't expect common citizens to pass such a bar. It seems particularly useless to exhort people to keep an open mind. The little we do know about human psychology tells us that biases are difficult to fix, and to expect that, when people form small groups, the groups will naturally tend to find consensus among its members. Healthy systems seek truth by instead allowing each group of fervent consensus to balance each other, thus allowing the entire society to become an approximation of the truth.
 
 Our system became broken when the various groups of differing opinion began to merge into one, homogenous mass of consensus. In an environment with fast information flows, ideas could be critiqued all of the time, and groups with any level of differing sincere belief are torn apart. The human bias for groupthink and conformism is supercharged.
 
