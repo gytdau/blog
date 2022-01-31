@@ -15,8 +15,6 @@ There's lots of reasons why humans hate uncertainty. Uncertainty gives you no st
 
 The combination of fast information flows and our failure to correctly regard uncertainty results in a characteristic symptom: overconfident dogmas that change quickly. We are in total consensus, yet what the consensus is changes at dizzying speeds. 
 
-This was particularly visible in Covid-19 health policy. It was just a flu, and worrying was irresponsible, until suddenly, lockdowns were the only option. Masks were ineffective and possibly harmful until, suddenly, they were “scientific” and mandatory. In a situation that was still developing, it is right to expect opinion to change as facts change. It is most curious, though, that even in the face of extreme reversals, the consensus is no less dogmatic. Opposing the consensus remains a kind of heresy, where it matters less that your actions are justified, than that they conform. Increasingly, minority viewpoints are choked out as reckless and inexcusable.
-
 ![Sanhedrin](/assets/sanhedrin.png)
 
 How did societies in the past deal with consensus? Consdier the ancient Jewish court, the Sanhedrin, where assemblies of elders heard cases and made judgements. The court was, by many accounts, the last word on important matters like judgements of the law. 
