@@ -3,7 +3,6 @@ layout: post
 title: "An argument for buying more devices"
 ---
 
-An Argument for Buying More Devices
 Device companies are incentivised to emphasize the changes in each new model of a line. This is why ads laboriously exaggerate small upgrades - to persuade owners of existing products to buy a new one.
 
 Yet, I claim people own too few devices. Why? It is because of the wonderful multitude of forms.
