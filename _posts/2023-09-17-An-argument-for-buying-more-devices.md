@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Life in the Great Future of Consumer Surplus"
+title: "An argument for buying more devices"
 ---
 
 An Argument for Buying More Devices
